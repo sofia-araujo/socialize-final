@@ -1,0 +1,28 @@
+[
+  {
+    "nome_usuario": "Sofia Gomes",
+    "email_usuario": "sofilucio2020@gmail.com",
+    "senha_usuario": "sofia2612!",
+    "data_registro": "15/07/2024",
+    "id": "64a6eb43-3902-412c-822d-dfa1f7bbd637",
+    "perfil": {
+      "id_usuario": [
+        "sofiaaraujolindaa"
+      ],
+      "nome_perfil": [
+        "Sofia Araújo"
+      ],
+      "bio": [
+        "amo meu namorado"
+      ],
+      "imagem": "C:\\Users\\3°F\\Documents\\codificacao-backend\\socialize\\uploads/imagem_banco.jfif"
+    }
+  },
+  {
+    "nome_usuario": "Igor Marcelino",
+    "email_usuario": "igormar@gmail.com",
+    "senha_usuario": "igorzinho2812!",
+    "data_registro": "19/07/2024",
+    "id": "d7c0e52b-1dbe-4b88-832d-474d1e1d289f"
+  }
+]
